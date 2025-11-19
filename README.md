@@ -1,4 +1,4 @@
-# DreamMask: Imagination-Aided Training for Open-Vocabulary Segmentation
+# DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data
 
 This repository contains the code for **DreamMask**, an imagination-aided training framework that improves open-vocabulary segmentation by combining:
 
